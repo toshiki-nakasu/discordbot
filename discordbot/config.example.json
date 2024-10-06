@@ -1,0 +1,12 @@
+{
+  "port": 80,
+  "discord": {
+    "bot": {
+      "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "client_id": "xxxxxxxxxxxxxxxxxxx"
+    },
+    "guild_id": "xxxxxxxxxxxxxxxxxxx",
+    "roles": [{ "name": "xxx" }]
+  },
+  "logLevel": ["log", "fatal", "error", "warn", "debug", "verbose"]
+}

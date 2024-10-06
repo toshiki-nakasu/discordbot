@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start:debug",
+            "path": "discordbot",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "npm: start:debug - discordbot",
+            "detail": "nest start --debug --watch"
+        }
+    ]
+}
